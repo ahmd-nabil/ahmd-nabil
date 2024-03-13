@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmd-nabil&" alt="ahmd-nabil" /></p>
 
-<p><img align="right" src="https://leetcard.jacoblin.cool/AhmedNabil?theme=light&font=Arima%20Madurai"/></p>
+<p><img src="https://leetcard.jacoblin.cool/AhmedNabil?theme=light&font=Arima%20Madurai"/></p>
